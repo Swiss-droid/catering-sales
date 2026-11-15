@@ -25,9 +25,9 @@ print()
 
 
 # Plotting the graph
-#x = df["Day"]
-#y = df["Total_Revenue_ZAR"]
-plt.barh(df["Day"], df["Total_Revenue_ZAR"], color = "purple") #, marker = "o", color = "green")
+x = df["Day"]
+y = df["Total_Revenue_ZAR"]
+plt.barh(df["Day"], df["Total_Revenue_ZAR"], color = "purple") 
 plt.xlabel("Revenue")
 plt.ylabel("Day")
 plt.title("Total Revenue for the Month")
