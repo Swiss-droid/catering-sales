@@ -22,5 +22,6 @@ Key Findings:
   3. Wednesday and Sunday have the lowest sales, with Sunday being the lowest with an average sale of R1500.
 
 
+
 catering_bakery_monthly.csv shows the results in a graph.
 
