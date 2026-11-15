@@ -1,4 +1,4 @@
-# My Data Analysis Project
+# Sales Data Analysis Project
 
 # Overview
 The project looks 2 things: 
