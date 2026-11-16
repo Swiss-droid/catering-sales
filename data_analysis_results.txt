@@ -1,0 +1,45 @@
+
+       Corporate_Office_Platters  Celebration_Cakes  Vetkoek_Boxes_Sold  Flour_Used_Kg  Meat_Used_Kg  Packaging_Boxes_Used  Total_Revenue_ZAR
+count                  30.000000          30.000000           30.000000      30.000000     30.000000             30.000000          30.000000
+mean                    1.433333           0.433333            5.433333      12.253333      5.733333              7.300000        1791.666667
+std                     1.356551           0.817200            2.824564       5.757977      5.426203              3.228643        1046.567735
+min                     0.000000           0.000000            2.000000       3.000000      0.000000              2.000000         240.000000
+25%                     0.000000           0.000000            2.000000       8.550000      0.000000              5.250000         937.500000
+50%                     1.500000           0.000000            6.000000      11.000000      6.000000              6.500000        1780.000000
+75%                     2.000000           0.750000            8.000000      17.000000      8.000000             10.000000        2260.000000
+max                     5.000000           3.000000           10.000000      23.500000     20.000000             13.000000        3800.000000
+
+
+
+<class 'pandas.DataFrame'>
+RangeIndex: 30 entries, 0 to 29
+Data columns (total 9 columns):
+ #   Column                     Non-Null Count  Dtype  
+---  ------                     --------------  -----  
+ 0   Date                       30 non-null     str    
+ 1   Day                        30 non-null     str    
+ 2   Corporate_Office_Platters  30 non-null     int64  
+ 3   Celebration_Cakes          30 non-null     int64  
+ 4   Vetkoek_Boxes_Sold         30 non-null     int64  
+ 5   Flour_Used_Kg              30 non-null     float64
+ 6   Meat_Used_Kg               30 non-null     float64
+ 7   Packaging_Boxes_Used       30 non-null     int64  
+ 8   Total_Revenue_ZAR          30 non-null     int64  
+dtypes: float64(2), int64(5), str(2)
+memory usage: 2.7 KB
+None
+
+
+
+Total Revenue (ZAR)
+The total revenue made this month is: 53750
+The average revenue this month is: 1791.67
+
+
+
+The total celebration cakes sold this month is: 13
+The total vetkoek boxes sold this month is: 163
+The total flour in kg used this month is: 367.6
+The total meat in kg used this month is: 172.0
+The total packaging boxes used this month is: 219
+
