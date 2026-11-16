@@ -25,3 +25,4 @@ Key Findings:
 
 catering_bakery_monthly.csv shows the results in a graph.
 
+data_analysis_results.txt contains the results of the processed data.
