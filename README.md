@@ -21,7 +21,6 @@ Key Findings:
   2. Monday, Tuesday and Thursday have similar sales, with Monday being the highest with an average sale between R2000 and R2500.
   3. Wednesday and Sunday have the lowest sales, with Sunday being the lowest with an average sale of R1500.
 
-
 catering_bakery_monthly.csv shows the results in a graph.
 
 data_analysis_results.txt contains the results of the processed data.
